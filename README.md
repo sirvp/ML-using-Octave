@@ -7,3 +7,15 @@ Programs for basic ML algorithms in Octave
 
 Download the latest version of Octave for Windows from 
 https://ftp.gnu.org/gnu/octave/windows/
+
+# Basic functionalities
+
+   For loading a file into Octave
+
+    X=load('filename')
+    
+   Calling a function in Octave CLI
+   
+    functionname([param1,param2,...])
+
+
